@@ -38,16 +38,16 @@ Yingxiang Gao (Undergraduate Student)
 Haiwen Luo (Master, 2023) National Supercomputer Center in Wuxi  
 Yangjun Wu (Master, 2024) ByteDance Group
 
-# Publication
-[Our latest publications](/publication/pub_other.html)
+<!-- # Publication
+[Our latest publications](/publication/pub_other.html) -->
 
 <!-- [Old version](https://quantumict.github.io/QuantumICT/publication/publications). -->
 
-# Album
+<!-- # Album
 [Our colorful life and memorable moments](/album/index).
 
 # Blog
-[Our blogs include tutorials and development logs](/blog/).
+[Our blogs include tutorials and development logs](/blog/). -->
 
 <!-- # Group Meeting -->
 <!-- [Our group meeting records](https://quantumict.github.io/QuantumICT/group_meeting).-->

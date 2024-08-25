@@ -45,8 +45,8 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if post.author and post.collection == 'publications' %}
-         <p> Author: {{ post.author }} </p>
+        {% if page.author and page.collection == 'publications' %}
+         <p> Author: {{ page.author }} </p>
         {% endif %}
 
         {{ content }}

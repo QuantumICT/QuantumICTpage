@@ -1,11 +1,10 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Block2 Installation'
+date: 2022-01-14
+permalink: /posts/2022/block2-Installation/
+author: DownFly
 tags:
-  - cool posts
-  - category1
-  - category2
+  - block2
 ---
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 

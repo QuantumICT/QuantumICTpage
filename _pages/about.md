@@ -5,6 +5,7 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+  - /QuantumICT/
 ---
 
 We are a team to accelerate science discovery at HPC.  

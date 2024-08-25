@@ -5,10 +5,8 @@ permalink: /members/kanbowen
 ---
 
 <!-- **Bowen Kan**   -->
-**Phone:** +8618744600933  
+
 **Email:** kanbowen17@163.com  
-**Date of Birth:** December 1991  
-**Gender:** Male  
 
 ---
 

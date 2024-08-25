@@ -10,7 +10,7 @@ permalink: /members/kanbowen
 
 ---
 
-#### **Professional Skills**
+# **Professional Skills**
 
 **Main Research Areas:**
 - High-Performance Computing (HPC) processor architecture
@@ -20,7 +20,7 @@ permalink: /members/kanbowen
 
 ---
 
-#### **Education**
+# **Education**
 
 **Jilin University**  
 **Master's Degree in Computer System Architecture**  
@@ -42,7 +42,7 @@ permalink: /members/kanbowen
 
 ---
 
-#### **Internship Experience**
+# **Internship Experience**
 
 **National Supercomputing Center in Tianjin**  
 **System Department Intern**  
@@ -53,7 +53,7 @@ Responsible for deploying and testing benchmarks such as stream, memtester, osu,
 
 ---
 
-#### **Work Experience**
+# **Work Experience**
 
 **China National Petroleum Corporation Jilin Oilfield Branch**  
 **Supervision Engineer**  
@@ -93,7 +93,7 @@ Responsible for deploying and testing benchmarks such as stream, memtester, osu,
 
 ---
 
-#### **Project Experience**
+# **Project Experience**
 
 **Research on Parameter Analysis and Optimization Methods for Earth System Models and System Development**  
 **(2017YFA0604503)**  
@@ -130,12 +130,12 @@ Responsible for deploying and testing benchmarks such as stream, memtester, osu,
 
 ---
 
-#### **Honors and Awards**
+# **Honors and Awards**
 
 - Patent: "Job Scheduling Method, Device, Electronic Equipment, and Storage Medium" (1/8) Patent No.: ZL 2022 1 1100132.2 (2022.12.20)
 - Patent: "Preprocessing Acceleration Method, Device, Equipment, and Storage Medium" (1/4) Patent No.: ZL 2022 1 0650452.9 (2022.09.16)
 - Patent: "Numerical Processing System for Magnetic Confinement Fusion Based on Supercomputers" (8/8) Patent No.: ZL 2022 1 0388166.X (2022.07.08)
-- Software Copyright: "Shenwei 26010 Chip Performance Simulation Software" (1/10) Registration No.: 2019SR0646021 (2019.06.24)
+- Software Copyright: "Sunway 26010 Chip Performance Simulation Software" (1/10) Registration No.: 2019SR0646021 (2019.06.24)
 - Software Copyright: "GPU Performance Simulation Software Based on Fermi Architecture" (2/10) Registration No.: 2019SR0547211 (2019.05.30)
 - Software Copyright: "Workflow Visualization Software Based on Dynamic Programming" (3/10) Registration No.: 2019SR0525649 (2019.05.27)
 - Outstanding Student Award, School of Computer Science and Technology, Jilin University (2014.06.15)

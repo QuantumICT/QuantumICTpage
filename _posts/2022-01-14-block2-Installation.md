@@ -3,6 +3,7 @@ title: 'Block2 Installation'
 date: 2022-01-14
 permalink: /posts/2022/block2-Installation/
 author: DownFly
+# posts: true
 tags:
   - block2
 ---

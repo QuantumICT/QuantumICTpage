@@ -14,9 +14,9 @@
   //   @include prefix(0.5 of 12);
   // }
   @include breakpoint($large) {
-    @include span(11 of 12);
-    @include prefix(0.5 of 12);
-    @include suffix(0.5 of 12);
+    @include span(10 of 12);
+    @include prefix(1 of 12);
+    @include suffix(1 of 12);
   }
 
   a {

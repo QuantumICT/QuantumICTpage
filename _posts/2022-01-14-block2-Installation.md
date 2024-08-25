@@ -4,6 +4,7 @@ date: 2022-01-14
 permalink: /posts/2022/block2-Installation/
 author: DownFly
 # posts: true
+excerpt: This article provides detailed steps for installing Block2, including preparation, dependency installation, and the process of compiling and installing using CMake and pip.
 tags:
   - block2
 ---

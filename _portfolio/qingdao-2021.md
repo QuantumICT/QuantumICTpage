@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 Our trip to Qingdao in 2021.
+![Qingdao 2021](/images/qingdao-2021.jpg)

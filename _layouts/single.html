@@ -45,7 +45,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.author and page.collection == 'publications' %}
+        {% if page.author %}
         <p class="page__date"><strong><i class="fa fa-fw fa-user-circle" aria-hidden="true"></i> Author: {{ page.author }} </strong></p>
         {% endif %}
 

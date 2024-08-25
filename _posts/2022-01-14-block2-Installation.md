@@ -7,7 +7,6 @@ tags:
   - block2
 ---
 
-# Block2 Installation
 ## Preparation
 Download block2
 ```bash

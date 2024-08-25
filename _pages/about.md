@@ -25,14 +25,14 @@ We are focuing on:
    
 
 ## Current Members 
-[Kan Bowen](/member/kanbowen) (Doctor Student)  
-[Zhao Bowen](/member/zhaobowen) (Master Student)  
+[Kan Bowen](/members/kanbowen) (Doctor Student)  
+[Zhao Bowen](/members/zhaobowen) (Master Student)  
 Xie Daiyou (Doctor Student)  
 Zhou Jiexuan(Master Student)  
 Zhu Leilei (Doctor Student)  
 Zhou Pengyu (Master Student)  
 Gao Yingxiang (Undergraduate Student)  
-[Xu Zhiqian](/member/xuzhiqian) (Doctor Student)  
+[Xu Zhiqian](/members/xuzhiqian) (Doctor Student)  
 [Xia Zhuozhao](https://xiazhuozhao.com) (Master Student)  
 
 ## Previous Members

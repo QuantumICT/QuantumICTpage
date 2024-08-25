@@ -20,24 +20,24 @@ We are focuing on:
 
 ## Principal Investigator
 
-[Honghui Shang](http://www.hfnl.ustc.edu.cn/detail?id=21014) mail: shh@ustc.edu.cn  
+[Shang Honghui](http://www.hfnl.ustc.edu.cn/detail?id=21014) mail: shh@ustc.edu.cn  
 <sub>[another link](https://faculty.ustc.edu.cn/shanghonghui/en/index.htm)</sub>  
    
 
 ## Current Members 
-[Bowen Kan](/member/bowenkan) (Doctor Student)  
-[Bowen Zhao](/member/bowenzhao) (Master Student)  
-Daiyou Xie (Doctor Student)  
-Jiexuan Zhou (Master Student)  
-Leilei Zhu (Doctor Student)  
-Pengyu Zhou (Master Student)  
-Yingxiang Gao (Undergraduate Student)  
-[Zhiqian Xu](/member/zhiqianxu) (Doctor Student)  
-[Zhuozhao Xia](https://xiazhuozhao.com) (Master Student)  
+[Kan Bowen](/member/kanbowen) (Doctor Student)  
+[Zhao Bowen](/member/zhaobowen) (Master Student)  
+Xie Daiyou (Doctor Student)  
+Zhou Jiexuan(Master Student)  
+Zhu Leilei (Doctor Student)  
+Zhou Pengyu (Master Student)  
+Gao Yingxiang (Undergraduate Student)  
+[Xu Zhiqian](/member/xuzhiqian) (Doctor Student)  
+[Xia Zhuozhao](https://xiazhuozhao.com) (Master Student)  
 
 ## Previous Members
-Haiwen Luo (Master, 2023) National Supercomputer Center in Wuxi  
-Yangjun Wu (Master, 2024) ByteDance Group
+Luo Haiwen (Master, 2023) National Supercomputer Center in Wuxi  
+Wu Yangjun (Master, 2024) ByteDance Group
 
 <!-- # Publication
 [Our latest publications](/publication/pub_other.html) -->

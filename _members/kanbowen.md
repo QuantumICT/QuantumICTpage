@@ -1,6 +1,7 @@
 ---
 title: "Kan Bowen"
-permalink: /members/kanbowen
+permalink: /members/kanbowen1
+collection: members
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "San Francisco, California"

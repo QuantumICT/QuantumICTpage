@@ -2,7 +2,7 @@
 title: 'Reducing Memory Usage of dist_tab, dir_tab, and dist_tab_sq'
 date: 2021-06-07
 permalink: /posts/2021/reducing-memory-usage/
-author: DownFly
+author: Luo Haiwen
 excerpt: 'This post explains how to reduce memory usage by optimizing the arrays dist_tab, dir_tab, and dist_tab_sq in Fortran code, including merging loops to compute and use each row immediately.'
 tags:
   - Fortran

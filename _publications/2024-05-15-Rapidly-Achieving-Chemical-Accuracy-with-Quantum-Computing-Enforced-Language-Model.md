@@ -4,7 +4,7 @@ author: "Shang, Honghui; Zeng, Xiongzhi; Gong, Ming; Wu, Yangju; Guo, Shaojun; Q
 collection: publications
 category: 2024
 permalink: /publication/2024-05-15-Rapidly-Achieving-Chemical-Accuracy-with-Quantum-Computing-Enforced-Language-Model
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-15
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---

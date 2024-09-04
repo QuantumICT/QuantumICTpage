@@ -31,13 +31,14 @@ Xie Daiyou (Doctor Student)
 Zhou Jiexuan(Master Student)  
 Zhu Leilei (Doctor Student)  
 Zhou Pengyu (Master Student)  
-Gao Yingxiang (Undergraduate Student)  
+
 [Xu Zhiqian](/members/xuzhiqian) (Doctor Student)  
 [Xia Zhuozhao](https://xiazhuozhao.com) (Master Student)  
 
 ## Previous Members
 Luo Haiwen (Master, 2023) National Supercomputer Center in Wuxi  
 Wu Yangjun (Master, 2024) ByteDance Group
+Gao Yingxiang (Graduated)  
 
 <!-- # Publication
 [Our latest publications](/publication/pub_other.html) -->

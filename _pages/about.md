@@ -37,7 +37,7 @@ Zhou Pengyu (Master Student)
 
 ## Previous Members
 Luo Haiwen (Master, 2023) National Supercomputer Center in Wuxi  
-Wu Yangjun (Master, 2024) ByteDance Group
+Wu Yangjun (Master, 2024) ByteDance Group  
 Gao Yingxiang (Graduated)  
 
 <!-- # Publication

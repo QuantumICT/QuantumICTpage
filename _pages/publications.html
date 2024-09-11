@@ -27,6 +27,7 @@ redirect_from:
         {% continue %}
       {% endif %}
       {% unless title_shown %}
+        <a name="{{ category[1].title }}"> </a>
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}

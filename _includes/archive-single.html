@@ -44,6 +44,8 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.author %}
       <p class="page__date"><strong><i class="fa fa-fw fa-user-circle" aria-hidden="true"></i> Author: {{ post.author }} </strong></p>
+    {% elsid post.published %}
+      <p class="page__date"><strong><i class="fa fa-fw fa-book" aria-hidden="true"></i> Published in: {{ post.published }} </strong></p>
     {% elsif post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}

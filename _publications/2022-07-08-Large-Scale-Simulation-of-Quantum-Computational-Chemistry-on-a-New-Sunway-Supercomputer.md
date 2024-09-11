@@ -6,6 +6,7 @@ category: 2022
 permalink: /publication/2022-07-08-Large-Scale-Simulation-of-Quantum-Computational-Chemistry-on-a-New-Sunway-Supercomputer
 date: 2022-07-08
 paperurl: 'https://doi.org/10.48550/arXiv.2207.03711'
+journal: 'arXiv'
 ---
 
 Quantum computational chemistry (QCC) is the use of quantum computers to solve problems in computational quantum chemistry. We develop a high performance variational quantum eigensolver (VQE) simulator for simulating quantum computational chemistry problems on a new Sunway supercomputer. The major innovations include: (1) a Matrix Product State (MPS) based VQE simulator to reduce the amount of memory needed and increase the simulation efficiency; (2) a combination of the Density Matrix Embedding Theory with the MPS-based VQE simulator to further extend the simulation range; (3) A three-level parallelization scheme to scale up to 20 million cores; (4) Usage of the Julia script language as the main programming language, which both makes the programming easier and enables cutting edge performance as native C or Fortran; (5) Study of real chemistry systems based on the VQE simulator, achieving nearly linearly strong and weak scaling. Our simulation demonstrates the power of VQE for large quantum chemistry systems, thus paves the way for large-scale VQE experiments on near-term quantum computers. © 2022, CC BY-NC-ND.

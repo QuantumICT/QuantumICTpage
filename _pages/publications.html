@@ -49,8 +49,8 @@ redirect_from:
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html reverse_index=reverse_index %}
       {% assign reverse_index = reverse_index | minus: 1 %}
+      {% include archive-single.html reverse_index=reverse_index %}
     {% endfor %}
   {% endfor %}
 {% else %}

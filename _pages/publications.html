@@ -32,6 +32,14 @@ redirect_from:
 
 {% include base_path %}
 
+{% assign total_posts = site.publications | size %}
+{% assign reverse_index = total_posts %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html reverse_index=reverse_index %}
+  {% assign reverse_index = reverse_index | minus: 1 %}
+{% endfor %}
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category reversed %}
@@ -45,7 +53,6 @@ redirect_from:
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      <a>123.</a>
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}

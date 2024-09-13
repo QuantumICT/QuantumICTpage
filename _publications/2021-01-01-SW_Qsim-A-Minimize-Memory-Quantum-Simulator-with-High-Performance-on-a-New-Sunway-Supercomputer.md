@@ -6,7 +6,7 @@ category: 2021
 permalink: /publication/2021-01-01-SW_Qsim-A-Minimize-Memory-Quantum-Simulator-with-High-Performance-on-a-New-Sunway-Supercomputer
 date: 2021-01-01
 paperurl: 'https://doi.org/10.1145/3458817.3476161'
-journal: ''
+
 ---
 ```bibtex
 @inproceedings{LiFang2021,

@@ -6,7 +6,7 @@ category: 2023
 permalink: /publication/2023-01-01-Portable-and--Scalable-All-Electron-Quantum-Perturbation-Simulations-on-Exascale-Supercomputers
 date: 2023-01-01
 paperurl: 'https://doi.org/10.1145/3581784.3607085'
-journal: ''
+
 ---
 ```bibtex
 @inproceedings{SC23_aims_dfpt,

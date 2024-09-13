@@ -6,7 +6,7 @@ category: 2022
 permalink: /publication/2022-01-01-Large-Scale-Simulation-of-Quantum-Computational-Chemistry-on-a-New-Sunway-Supercomputer
 date: 2022-01-01
 paperurl: 'https://doi.org/'
-journal: ''
+
 ---
 ```bibtex
 @article{Shang2022,

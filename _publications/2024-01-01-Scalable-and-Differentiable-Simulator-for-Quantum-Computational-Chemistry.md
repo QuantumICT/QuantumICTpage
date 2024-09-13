@@ -6,7 +6,7 @@ category: 2024
 permalink: /publication/2024-01-01-Scalable-and-Differentiable-Simulator-for-Quantum-Computational-Chemistry
 date: 2024-01-01
 paperurl: 'https://doi.org/'
-journal: ''
+
 ---
 ```bibtex
 @inproceedings{Xu2024,

@@ -6,7 +6,7 @@ category: 2023
 permalink: /publication/2023-01-01-NNQS-Transformer-An-Efficient-and-Scalable-Neural-Network-Quantum-States-Approach-for-Ab-Initio-Quantum-Chemistry
 date: 2023-01-01
 paperurl: 'https://doi.org/10.1145/3581784.3607061'
-journal: ''
+
 ---
 ```bibtex
 @inproceedings{SC23_nnqs,

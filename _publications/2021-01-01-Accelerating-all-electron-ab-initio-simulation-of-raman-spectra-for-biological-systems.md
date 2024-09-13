@@ -6,7 +6,7 @@ category: 2021
 permalink: /publication/2021-01-01-Accelerating-all-electron-ab-initio-simulation-of-raman-spectra-for-biological-systems
 date: 2021-01-01
 paperurl: 'https://doi.org/10.1145/3458817.3476160'
-journal: ''
+
 ---
 ```bibtex
 @inproceedings{Shang2021,

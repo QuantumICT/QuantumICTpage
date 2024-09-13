@@ -31,7 +31,6 @@ Xie Daiyou (Doctor Student)
 Zhou Jiexuan(Master Student)  
 Zhu Leilei (Doctor Student)  
 Zhou Pengyu (Master Student)  
-
 [Xu Zhiqian](/members/xuzhiqian) (Doctor Student)  
 [Xia Zhuozhao](https://xiazhuozhao.com) (Master Student)  
 

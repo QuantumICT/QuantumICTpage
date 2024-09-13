@@ -74,5 +74,9 @@
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
     {% endif %}
 
+    {% if post.collection == 'publications' %}
+      <p><a href="{{ base_path }}{{ post.url }}">bibtex</a></p>
+    {% endif %}
+
   </article>
 </div>

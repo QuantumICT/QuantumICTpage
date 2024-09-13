@@ -4,6 +4,7 @@ author: "Shang, Honghui; Raimbault, Nathaniel; Rinke, Patrick; Scheffler, Matthi
 collection: publications
 category: 2018
 permalink: /publication/2018-01-01-All-electron,-real-space-perturbation-theory-for-homogeneous-electric-fields-theory,-implementation,-and-application-within-DFT
+date: 2018-01-01
 paperurl: 'https://doi.org/10.1088/1367-2630/aace6d'
 journal: 'New Journal of Physics'
 ---

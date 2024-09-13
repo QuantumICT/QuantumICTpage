@@ -4,6 +4,7 @@ author: "Honghui Shang; Fei Wang; Yi Fan; Huan Ma; Qi Liu; Chu Guo; Pengyu Zhou;
 collection: publications
 category: 2024
 permalink: /publication/2024-01-01-Large-scale-quantum-emulating-simulations-of-biomolecules-A-pilot-exploration-of-parallel-quantum-computing
+date: 2024-01-01
 paperurl: 'https://doi.org/https://doi.org/10.1016/j.scib.2024.01.022'
 journal: 'Science Bulletin'
 ---

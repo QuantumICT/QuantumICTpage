@@ -4,6 +4,7 @@ author: "Shang, Honghui; Yang, Jinlong"
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Capturing-the-Electron–Phonon-Renormalization-in-Molecules-from-First-Principles
+date: 2021-01-01
 paperurl: 'https://doi.org/10.1021/acs.jpca.0c10897'
 journal: 'The Journal of Physical Chemistry A'
 ---

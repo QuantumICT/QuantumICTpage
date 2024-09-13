@@ -4,6 +4,7 @@ author: "Liu, Jie; Ma, Huan; Shang, Honghui; Li, Zhenyu; Yang, Jinlong"
 collection: publications
 category: 2024
 permalink: /publication/2024-01-01-Quantum-centric-high-performance-computing-for-quantum-chemistry
+date: 2024-01-01
 paperurl: 'https://doi.org/10.1039/D4CP00436A'
 journal: 'Phys. Chem. Chem. Phys.'
 ---

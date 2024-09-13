@@ -4,6 +4,7 @@ author: "Chen, Xin; Gao, Yingxiang; Shang, Honghui; Li, Fang; Xu, Zhiqian; Liu, 
 collection: publications
 category: 2022
 permalink: /publication/2022-01-01-Increasing-the-Efficiency-of-Massively-Parallel-Sparse-Matrix-Matrix-Multiplication-in-First-Principles-Calculation-on-the-New-Generation-Sunway-Supercomputer
+date: 2022-01-01
 paperurl: 'https://doi.org/10.1109/TPDS.2022.3202518'
 journal: 'IEEE Transactions on Parallel and Distributed Systems'
 ---

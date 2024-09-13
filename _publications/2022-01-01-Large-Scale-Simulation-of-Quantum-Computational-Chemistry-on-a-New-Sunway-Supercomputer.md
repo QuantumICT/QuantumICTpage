@@ -4,6 +4,7 @@ author: "Shang, Honghui; Shen, Li; Fan, Yi; Xu, Zhiqian; Guo, Chu; Liu, Jie; Zho
 collection: publications
 category: 2022
 permalink: /publication/2022-01-01-Large-Scale-Simulation-of-Quantum-Computational-Chemistry-on-a-New-Sunway-Supercomputer
+date: 2022-01-01
 paperurl: 'https://doi.org/'
 journal: ''
 ---

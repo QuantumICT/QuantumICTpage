@@ -4,6 +4,7 @@ author: "Shen, Tong; Zhang, Xiao-Wei; Shang, Honghui; Zhang, Min-Ye; Wang, Xinqi
 collection: publications
 category: 2020
 permalink: /publication/2020-01-01-Influence-of-high-energy-local-orbitals-and-electron-phonon-interactions-on-the-band-gaps-and-optical-absorption-spectra-of-hexagonal-boron-nitride
+date: 2020-01-01
 paperurl: 'https://doi.org/10.1103/PhysRevB.102.045117'
 journal: 'Phys. Rev. B'
 ---

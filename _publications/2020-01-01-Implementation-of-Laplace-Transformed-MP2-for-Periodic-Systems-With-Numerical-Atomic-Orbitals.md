@@ -4,6 +4,7 @@ author: "Shang, Honghui; Yang, Jinlong"
 collection: publications
 category: 2020
 permalink: /publication/2020-01-01-Implementation-of-Laplace-Transformed-MP2-for-Periodic-Systems-With-Numerical-Atomic-Orbitals
+date: 2020-01-01
 paperurl: 'https://doi.org/10.3389/fchem.2020.589992'
 journal: 'Frontiers in Chemistry'
 ---

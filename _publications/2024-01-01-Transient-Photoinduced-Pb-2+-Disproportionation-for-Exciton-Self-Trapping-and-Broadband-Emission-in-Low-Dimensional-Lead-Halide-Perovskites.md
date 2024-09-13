@@ -4,6 +4,7 @@ author: "Zhang, Yao; Zhu, Leilei; Yang, Zhaoxia; Tao, Weijian; Chen, Zeng; Li, T
 collection: publications
 category: 2024
 permalink: /publication/2024-01-01-Transient-Photoinduced-Pb-2+-Disproportionation-for-Exciton-Self-Trapping-and-Broadband-Emission-in-Low-Dimensional-Lead-Halide-Perovskites
+date: 2024-01-01
 paperurl: 'https://doi.org/10.1021/jacs.4c01115'
 journal: 'Journal of the American Chemical Society'
 ---

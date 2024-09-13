@@ -4,6 +4,7 @@ author: "Shang, Honghui; Duan, Xiaohui; Li, Fang; Zhang, Libo; Xu, Zhiqian; Liu,
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Many-core-acceleration-of-the-first-principles-all-electron-quantum-perturbation-calculations
+date: 2021-01-01
 paperurl: 'https://doi.org/10.1016/j.cpc.2021.108045'
 journal: 'Computer Physics Communications'
 ---

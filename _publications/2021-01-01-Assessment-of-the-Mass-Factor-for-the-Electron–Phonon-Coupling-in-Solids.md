@@ -4,6 +4,7 @@ author: "Shang, Honghui; Zhao, Jin; Yang, Jinlong"
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Assessment-of-the-Mass-Factor-for-the-Electron–Phonon-Coupling-in-Solids
+date: 2021-01-01
 paperurl: 'https://doi.org/10.1021/acs.jpcc.1c00861'
 journal: 'The Journal of Physical Chemistry C'
 ---

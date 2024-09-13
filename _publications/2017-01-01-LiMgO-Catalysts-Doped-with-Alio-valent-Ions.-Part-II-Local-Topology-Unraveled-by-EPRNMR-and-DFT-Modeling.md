@@ -4,6 +4,7 @@ author: "Simon, Ulla; Alarcón Villaseca, Sebastián; Shang, Honghui; Levchenko,
 collection: publications
 category: 2017
 permalink: /publication/2017-01-01-LiMgO-Catalysts-Doped-with-Alio-valent-Ions.-Part-II-Local-Topology-Unraveled-by-EPRNMR-and-DFT-Modeling
+date: 2017-01-01
 paperurl: 'https://doi.org/10.1002/cctc.201700610'
 journal: 'ChemCatChem'
 ---

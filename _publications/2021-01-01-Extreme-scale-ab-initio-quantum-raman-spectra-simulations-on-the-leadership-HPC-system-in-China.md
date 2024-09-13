@@ -4,6 +4,7 @@ author: "Shang, Honghui; Li, Fang; Zhang, Yunquan; Zhang, Libo; Fu, You; Gao, Yi
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Extreme-scale-ab-initio-quantum-raman-spectra-simulations-on-the-leadership-HPC-system-in-China
+date: 2021-01-01
 paperurl: 'https://doi.org/10.1145/3458817.3487402'
 journal: ''
 ---

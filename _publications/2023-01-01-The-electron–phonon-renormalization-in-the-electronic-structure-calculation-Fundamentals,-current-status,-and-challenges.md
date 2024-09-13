@@ -4,6 +4,7 @@ author: "Shang, Honghui; Yang, Jinlong"
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-The-electron–phonon-renormalization-in-the-electronic-structure-calculation-Fundamentals,-current-status,-and-challenges
+date: 2023-01-01
 paperurl: 'https://doi.org/10.1063/5.0140724'
 journal: 'The Journal of Chemical Physics'
 ---

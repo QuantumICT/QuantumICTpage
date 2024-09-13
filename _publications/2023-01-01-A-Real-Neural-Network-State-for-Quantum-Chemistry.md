@@ -4,6 +4,7 @@ author: "Wu, Yangjun; Xu, Xiansong; Poletti, Dario; Fan, Yi; Guo, Chu; Shang, Ho
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-A-Real-Neural-Network-State-for-Quantum-Chemistry
+date: 2023-01-01
 paperurl: 'https://doi.org/10.3390/math11061417'
 journal: 'Mathematics'
 ---

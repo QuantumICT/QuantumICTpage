@@ -4,6 +4,7 @@ author: "Guo, Chu; Fan, Yi; Xu, Zhiqian; Shang, Honghui"
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-Differentiable-matrix-product-states-for-simulating-variational-quantum-computational-chemistry
+date: 2023-01-01
 paperurl: 'https://doi.org/10.22331/q-2023-12-04-1192'
 journal: 'Quantum'
 ---

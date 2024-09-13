@@ -4,6 +4,7 @@ author: "Shang, Honghui; Wang, Haidi"
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Anharmonic-Raman-spectra-simulation-of-crystals-from-deep-neural-networks
+date: 2021-01-01
 paperurl: 'https://doi.org/10.1063/5.0040190'
 journal: 'AIP Advances'
 ---

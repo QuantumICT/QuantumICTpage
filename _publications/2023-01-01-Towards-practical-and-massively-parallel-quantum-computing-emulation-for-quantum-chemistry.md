@@ -4,6 +4,7 @@ author: "Shang, Honghui; Fan, Yi; Shen, Li; Guo, Chu; Liu, Jie; Duan, Xiaohui; L
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-Towards-practical-and-massively-parallel-quantum-computing-emulation-for-quantum-chemistry
+date: 2023-01-01
 paperurl: 'https://doi.org/10.1038/s41534-023-00696-7'
 journal: 'npj Quantum Information'
 ---

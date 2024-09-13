@@ -4,6 +4,7 @@ author: "Sezen, Hikmet; Shang, Honghui; Bebensee, Fabian; Yang, Chengwu; Buchhol
 collection: publications
 category: 2015
 permalink: /publication/2015-01-01-Evidence-for-photogenerated-intermediate-hole-polarons-in-ZnO
+date: 2015-01-01
 paperurl: 'https://doi.org/10.1038/ncomms7901'
 journal: 'Nature Communications'
 ---

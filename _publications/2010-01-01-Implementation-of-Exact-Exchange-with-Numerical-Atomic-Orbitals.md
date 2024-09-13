@@ -4,6 +4,7 @@ author: "Shang, Honghui; Li, Zhenyu; Yang, Jinlong"
 collection: publications
 category: 2010
 permalink: /publication/2010-01-01-Implementation-of-Exact-Exchange-with-Numerical-Atomic-Orbitals
+date: 2010-01-01
 paperurl: 'https://doi.org/10.1021/jp908836z'
 journal: 'The Journal of Physical Chemistry A'
 ---

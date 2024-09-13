@@ -4,6 +4,7 @@ author: "Qin, Xinming; Shang, Honghui; Xiang, Hongjun; Li, Zhenyu; Yang, Jinlong
 collection: publications
 category: 2015
 permalink: /publication/2015-01-01-HONPAS-A-linear-scaling-open-source-solution-for-large-system-simulations
+date: 2015-01-01
 paperurl: 'https://doi.org/10.1002/qua.24837'
 journal: 'International Journal of Quantum Chemistry'
 ---

@@ -4,6 +4,7 @@ author: "Ding, Chuyun; Yao, Yuyu; Zhu, Leilei; Shang, Honghui; Xu, Peng; Liu, Xi
 collection: publications
 category: 2022
 permalink: /publication/2022-01-01-Growth,-Raman-Scattering-Investigation-and-Photodetector-Properties-of-2D-SnP
+date: 2022-01-01
 paperurl: 'https://doi.org/10.1002/smll.202108017'
 journal: 'Small'
 ---

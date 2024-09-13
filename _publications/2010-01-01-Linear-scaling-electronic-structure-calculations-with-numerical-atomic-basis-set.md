@@ -4,6 +4,7 @@ author: "Shang, Honghui; Xiang, Hongjun; Li, Zhenyu; Yang, Jinlong"
 collection: publications
 category: 2010
 permalink: /publication/2010-01-01-Linear-scaling-electronic-structure-calculations-with-numerical-atomic-basis-set
+date: 2010-01-01
 paperurl: 'https://doi.org/10.1080/0144235X.2010.520454'
 journal: 'International Reviews in Physical Chemistry'
 ---

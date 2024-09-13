@@ -4,6 +4,7 @@ author: "Shang, Honghui; Chen, Xin; Gao, Xingyu; Lin, Rongfen; Wang, Lifang; Li,
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-TensorKMC-Kinetic-Monte-Carlo-Simulation-of-50-Trillion-Atoms-Driven-by-Deep-Learning-on-a-New-Generation-of-Sunway-Supercomputer
+date: 2021-01-01
 paperurl: 'https://doi.org/10.1145/3458817.3476174'
 journal: ''
 ---

@@ -4,6 +4,7 @@ author: "Tao, Weijian; Zhu, Leilei; Li, Kanghua; Chen, Chao; Chen, Yuzhong; Li, 
 collection: publications
 category: 2022
 permalink: /publication/2022-01-01-Coupled-Electronic-and-Anharmonic-Structural-Dynamics-for-Carrier-Self‐Trapping-in-Photovoltaic-Antimony-Chalcogenides
+date: 2022-01-01
 paperurl: 'https://doi.org/10.1002/advs.202202154'
 journal: 'Advanced Science'
 ---

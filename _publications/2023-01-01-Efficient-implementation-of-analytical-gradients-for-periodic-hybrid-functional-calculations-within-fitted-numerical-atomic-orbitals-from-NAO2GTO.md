@@ -4,6 +4,7 @@ author: "Qin, Xinming; Shang, Honghui; Yang, Jinlong"
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-Efficient-implementation-of-analytical-gradients-for-periodic-hybrid-functional-calculations-within-fitted-numerical-atomic-orbitals-from-NAO2GTO
+date: 2023-01-01
 paperurl: 'https://doi.org/10.3389/fchem.2023.1232425'
 journal: 'Frontiers in Chemistry'
 ---

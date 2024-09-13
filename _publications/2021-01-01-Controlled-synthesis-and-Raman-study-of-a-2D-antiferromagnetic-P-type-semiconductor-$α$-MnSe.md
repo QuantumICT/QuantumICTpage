@@ -4,6 +4,7 @@ author: "Li, Ningning; Zhu, Leilei; Shang, Honghui; Wang, Feng; Zhang, Yu; Yao, 
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Controlled-synthesis-and-Raman-study-of-a-2D-antiferromagnetic-P-type-semiconductor-$α$-MnSe
+date: 2021-01-01
 paperurl: 'https://doi.org/10.1039/d1nr00822f'
 journal: 'Nanoscale'
 ---

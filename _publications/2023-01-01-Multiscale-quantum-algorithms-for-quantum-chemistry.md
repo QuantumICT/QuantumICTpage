@@ -4,6 +4,7 @@ author: "Ma, Huan; Liu, Jie; Shang, Honghui; Fan, Yi; Li, Zhenyu; Yang, Jinlong"
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-Multiscale-quantum-algorithms-for-quantum-chemistry
+date: 2023-01-01
 paperurl: 'https://doi.org/10.1039/D2SC06875C'
 journal: 'Chemical Science'
 ---

@@ -4,6 +4,7 @@ author: "Shang, Honghui; Xu, Lei; Wu, Baodong; Qin, Xinming; Zhang, Yunquan; Yan
 collection: publications
 category: 2020
 permalink: /publication/2020-01-01-The-dynamic-parallel-distribution-algorithm-for-hybrid-density-functional-calculations-in-HONPAS-package
+date: 2020-01-01
 paperurl: 'https://doi.org/10.1016/j.cpc.2020.107204'
 journal: 'Computer Physics Communications'
 ---

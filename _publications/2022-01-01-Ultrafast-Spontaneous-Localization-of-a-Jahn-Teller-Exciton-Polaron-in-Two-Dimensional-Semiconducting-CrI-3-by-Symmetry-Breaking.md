@@ -4,6 +4,7 @@ author: "Li, Xufeng; Wang, Aolei; Chen, Hailong; Tao, Weijian; Chen, Zeng; Zhang
 collection: publications
 category: 2022
 permalink: /publication/2022-01-01-Ultrafast-Spontaneous-Localization-of-a-Jahn-Teller-Exciton-Polaron-in-Two-Dimensional-Semiconducting-CrI-3-by-Symmetry-Breaking
+date: 2022-01-01
 paperurl: 'https://doi.org/10.1021/acs.nanolett.2c03689'
 journal: 'Nano Letters'
 ---

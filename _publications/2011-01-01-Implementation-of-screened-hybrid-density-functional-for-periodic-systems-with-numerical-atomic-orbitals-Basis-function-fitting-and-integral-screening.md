@@ -4,6 +4,7 @@ author: "Shang, Honghui; Li, Zhenyu; Yang, Jinlong"
 collection: publications
 category: 2011
 permalink: /publication/2011-01-01-Implementation-of-screened-hybrid-density-functional-for-periodic-systems-with-numerical-atomic-orbitals-Basis-function-fitting-and-integral-screening
+date: 2011-01-01
 paperurl: 'https://doi.org/10.1063/1.3610379'
 journal: 'The Journal of Chemical Physics'
 ---

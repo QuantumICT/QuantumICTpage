@@ -4,7 +4,6 @@ author: "Fu, Lizhong; Wu, Yangjun; Shang, Honghui; Yang, Jinlong"
 collection: publications
 category: 2024
 permalink: /publication/2024-01-01-Transformer-Based-Neural-Network-Quantum-State-Method-for-Electronic-Band-Structures-of-Real-Solids
-date: 2024-01-01
 paperurl: 'https://doi.org/10.1021/acs.jctc.4c00567'
 journal: 'Journal of Chemical Theory and Computation'
 ---

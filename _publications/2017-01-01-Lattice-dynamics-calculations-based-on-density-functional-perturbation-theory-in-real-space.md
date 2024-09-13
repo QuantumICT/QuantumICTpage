@@ -4,7 +4,6 @@ author: "Shang, Honghui; Carbogno, Christian; Rinke, Patrick; Scheffler, Matthia
 collection: publications
 category: 2017
 permalink: /publication/2017-01-01-Lattice-dynamics-calculations-based-on-density-functional-perturbation-theory-in-real-space
-date: 2017-01-01
 paperurl: 'https://doi.org/10.1016/j.cpc.2017.02.001'
 journal: 'Computer Physics Communications'
 ---

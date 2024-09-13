@@ -4,7 +4,6 @@ author: "Shang, Honghui; Li, Fang; Zhang, Yunquan; Liu, Ying; Zhang, Libo; Wu, M
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Accelerating-all-electron-ab-initio-simulation-of-raman-spectra-for-biological-systems
-date: 2021-01-01
 paperurl: 'https://doi.org/10.1145/3458817.3476160'
 journal: ''
 ---

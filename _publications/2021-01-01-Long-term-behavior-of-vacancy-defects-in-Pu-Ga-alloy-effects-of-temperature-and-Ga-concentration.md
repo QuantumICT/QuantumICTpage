@@ -4,7 +4,6 @@ author: "Xu, Lei; Wang, Li-Fang; Chen, Xin; Gao, Xingyu; Shang, Hong-Hui; Liu, H
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Long-term-behavior-of-vacancy-defects-in-Pu-Ga-alloy-effects-of-temperature-and-Ga-concentration
-date: 2021-01-01
 paperurl: 'https://doi.org/https://doi.org/10.1016/j.comptc.2021.113338'
 journal: 'Computational and Theoretical Chemistry'
 ---

@@ -4,7 +4,6 @@ author: "Kan, Bowen; Tian, Yingqi; Xie, Daiyou; Wu, Yangjun; Fan, Yi; Shang, Hon
 collection: publications
 category: 2024
 permalink: /publication/2024-01-01-Solving-the-Electronic-Schrödinger-Equation-by-Pairing-Tensor-Network-State-with-Neural-Network-Quantum-State
-date: 2024-01-01
 paperurl: 'https://doi.org/10.3390/math12030433'
 journal: 'Mathematics'
 ---

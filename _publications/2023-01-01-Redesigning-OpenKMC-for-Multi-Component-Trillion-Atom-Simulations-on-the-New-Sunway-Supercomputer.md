@@ -4,7 +4,6 @@ author: "Xu, Lei; Shang, Honghui; Chen, Xin; Zhang, Yunquan; Wang, Lifang; Gao, 
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-Redesigning-OpenKMC-for-Multi-Component-Trillion-Atom-Simulations-on-the-New-Sunway-Supercomputer
-date: 2023-01-01
 paperurl: 'https://doi.org/10.1109/TPDS.2023.3269625'
 journal: 'IEEE Transactions on Parallel and Distributed Systems'
 ---

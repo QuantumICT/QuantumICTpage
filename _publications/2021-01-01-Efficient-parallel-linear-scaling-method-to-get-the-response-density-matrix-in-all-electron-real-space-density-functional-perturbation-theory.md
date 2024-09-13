@@ -4,7 +4,6 @@ author: "Honghui Shang; WanZhen Liang; Yunquan Zhang; Jinlong Yang"
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Efficient-parallel-linear-scaling-method-to-get-the-response-density-matrix-in-all-electron-real-space-density-functional-perturbation-theory
-date: 2021-01-01
 paperurl: 'https://doi.org/https://doi.org/10.1016/j.cpc.2020.107613'
 journal: 'Computer Physics Communications'
 ---

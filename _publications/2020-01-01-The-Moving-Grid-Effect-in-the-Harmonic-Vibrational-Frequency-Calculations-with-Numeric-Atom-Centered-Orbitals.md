@@ -4,7 +4,6 @@ author: "Shang, Honghui; Yang, Jinlong"
 collection: publications
 category: 2020
 permalink: /publication/2020-01-01-The-Moving-Grid-Effect-in-the-Harmonic-Vibrational-Frequency-Calculations-with-Numeric-Atom-Centered-Orbitals
-date: 2020-01-01
 paperurl: 'https://doi.org/10.1021/acs.jpca.0c01453'
 journal: 'The Journal of Physical Chemistry A'
 ---

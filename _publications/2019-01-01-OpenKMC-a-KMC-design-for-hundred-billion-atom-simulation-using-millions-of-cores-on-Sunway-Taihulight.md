@@ -4,7 +4,6 @@ author: "Li, Kun; Shang, Honghui; Zhang, Yunquan; Li, Shigang; Wu, Baodong; Wang
 collection: publications
 category: 2019
 permalink: /publication/2019-01-01-OpenKMC-a-KMC-design-for-hundred-billion-atom-simulation-using-millions-of-cores-on-Sunway-Taihulight
-date: 2019-01-01
 paperurl: 'https://doi.org/'
 journal: ''
 ---

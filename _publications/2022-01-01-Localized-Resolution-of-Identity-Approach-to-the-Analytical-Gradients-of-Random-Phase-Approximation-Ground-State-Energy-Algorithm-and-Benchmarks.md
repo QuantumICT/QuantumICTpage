@@ -4,7 +4,6 @@ author: "Tahir, Muhammad N.; Zhu, Tong; Shang, Honghui; Li, Jia; Blum, Volker; R
 collection: publications
 category: 2022
 permalink: /publication/2022-01-01-Localized-Resolution-of-Identity-Approach-to-the-Analytical-Gradients-of-Random-Phase-Approximation-Ground-State-Energy-Algorithm-and-Benchmarks
-date: 2022-01-01
 paperurl: 'https://doi.org/10.1021/acs.jctc.2c00512'
 journal: 'Journal of Chemical Theory and Computation'
 ---

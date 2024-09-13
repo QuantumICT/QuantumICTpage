@@ -4,7 +4,6 @@ author: "Argondizzo, Adam; Cui, Xuefeng; Wang, Cong; Sun, Huijuan; Shang, Honghu
 collection: publications
 category: 2015
 permalink: /publication/2015-01-01-Ultrafast-multiphoton-pump-probe-photoemission-excitation-pathways-in-rutile-TiO-2-(-110-)
-date: 2015-01-01
 paperurl: 'https://doi.org/10.1103/PhysRevB.91.155429'
 journal: 'Physical Review B'
 ---

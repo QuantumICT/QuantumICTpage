@@ -4,7 +4,6 @@ author: "Zhu, Leilei; Zeng, Xiongzhi; Shang, Honghui; Li, Zhenyu"
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-First-Principles-Analysis-of-the-Raman-Spectra-of-2D-Material-YbOCl
-date: 2023-01-01
 paperurl: 'https://doi.org/10.1021/acs.jpcc.3c05140'
 journal: 'The Journal of Physical Chemistry C'
 ---

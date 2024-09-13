@@ -4,7 +4,6 @@ author: "Wu, Zhikun; Shang, Honghui; Wu, Yangjun; Zhang, Zhongcheng; Liu, Ying; 
 collection: publications
 category: 2023
 permalink: /publication/2023-01-01-OpenCL-accelerated-first-principles-calculations-of-all-electron-quantum-perturbations-on-HPC-resources
-date: 2023-01-01
 paperurl: 'https://doi.org/10.3389/fchem.2023.1156891'
 journal: 'Frontiers in Chemistry'
 ---

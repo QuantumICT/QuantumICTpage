@@ -4,7 +4,6 @@ author: "Qin, Xinming; Shang, Honghui; Xu, Lei; Hu, Wei; Yang, Jinlong; Li, Shig
 collection: publications
 category: 2020
 permalink: /publication/2020-01-01-The-static-parallel-distribution-algorithms-for-hybrid-density-functional-calculations-in-HONPAS-package
-date: 2020-01-01
 paperurl: 'https://doi.org/10.1177/1094342019845046'
 journal: 'International Journal of High Performance Computing Applications'
 ---

@@ -4,7 +4,6 @@ author: "Wu, Mingchuan; Wu, Yangjun; Shang, Honghui; Liu, Ying; Cui, Huimin; Li,
 collection: publications
 category: 2022
 permalink: /publication/2022-01-01-Scaling-Poisson-Solvers-on-Many-Cores-via-MMEwald
-date: 2022-01-01
 paperurl: 'https://doi.org/10.1109/TPDS.2021.3127138'
 journal: 'IEEE Transactions on Parallel and Distributed Systems'
 ---

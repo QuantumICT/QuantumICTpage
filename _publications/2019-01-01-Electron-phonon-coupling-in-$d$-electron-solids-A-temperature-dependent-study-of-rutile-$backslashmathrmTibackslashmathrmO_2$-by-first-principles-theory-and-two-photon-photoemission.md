@@ -4,7 +4,6 @@ author: "Shang, Honghui; Argondizzo, Adam; Tan, Shijing; Zhao, Jin; Rinke, Patri
 collection: publications
 category: 2019
 permalink: /publication/2019-01-01-Electron-phonon-coupling-in-$d$-electron-solids-A-temperature-dependent-study-of-rutile-$backslashmathrmTibackslashmathrmO_2$-by-first-principles-theory-and-two-photon-photoemission
-date: 2019-01-01
 paperurl: 'https://doi.org/10.1103/PhysRevResearch.1.033153'
 journal: 'Phys. Rev. Research'
 ---

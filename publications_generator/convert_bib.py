@@ -13,9 +13,10 @@ def clean_author(author):
             formatted_name = f"{names[1].strip()} {names[0].strip()}"
         else:
             formatted_name = names[0]
+        formatted_name = formatted_name.replace('-', '')  # 添加这行代码来删除姓名中的短横线
         authors.append(formatted_name)
     return '; '.join(authors)
-
+    
 def sanitize_filename(filename):
     return re.sub(r'[<>:"/\\|?*]', '', filename)
 

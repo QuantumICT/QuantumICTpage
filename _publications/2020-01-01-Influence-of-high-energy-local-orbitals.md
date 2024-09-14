@@ -1,6 +1,6 @@
 ---
 title: "Influence of high-energy local orbitals and electron-phonon interactions on the band gaps and optical absorption spectra of hexagonal boron nitride"
-author: "Tong Shen; Xiao-Wei Zhang; Honghui Shang; Min-Ye Zhang; Xinqiang Wang; En-Ge Wang; Hong Jiang; Xin-Zheng Li"
+author: "Tong Shen; XiaoWei Zhang; Honghui Shang; MinYe Zhang; Xinqiang Wang; EnGe Wang; Hong Jiang; XinZheng Li"
 collection: publications
 category: 2020
 permalink: /publication/2020-01-01-Influence-of-high-energy-local-orbitals

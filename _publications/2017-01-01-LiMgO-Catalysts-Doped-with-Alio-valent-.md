@@ -1,6 +1,6 @@
 ---
 title: "Li/MgO Catalysts Doped with Alio-valent Ions. Part II: Local Topology Unraveled by EPR/NMR and DFT Modeling"
-author: "Ulla Simon; Sebastián Alarcón Villaseca; Honghui Shang; Sergey V Levchenko; Sebastian Arndt; Jan D Epping; Oliver Görke; Matthias Scheffler; Reinhard Schomäcker; Johan van Tol; Andrew Ozarowski; Klaus-Peter Dinse"
+author: "Ulla Simon; Sebastián Alarcón Villaseca; Honghui Shang; Sergey V Levchenko; Sebastian Arndt; Jan D Epping; Oliver Görke; Matthias Scheffler; Reinhard Schomäcker; Johan van Tol; Andrew Ozarowski; KlausPeter Dinse"
 collection: publications
 category: 2017
 permalink: /publication/2017-01-01-LiMgO-Catalysts-Doped-with-Alio-valent-

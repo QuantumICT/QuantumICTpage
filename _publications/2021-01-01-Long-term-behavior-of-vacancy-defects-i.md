@@ -1,6 +1,6 @@
 ---
 title: "Long-term behavior of vacancy defects in Pu-Ga alloy: effects of temperature and Ga concentration"
-author: "Lei Xu; Li-Fang Wang; Xin Chen; Xingyu Gao; Hong-Hui Shang; Hai-Feng Liu; Hai-Feng Song"
+author: "Lei Xu; LiFang Wang; Xin Chen; Xingyu Gao; HongHui Shang; HaiFeng Liu; HaiFeng Song"
 collection: publications
 category: 2021
 permalink: /publication/2021-01-01-Long-term-behavior-of-vacancy-defects-i

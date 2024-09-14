@@ -1,6 +1,6 @@
 ---
 title: "Ultrafast Spontaneous Localization of a Jahn-Teller Exciton Polaron in Two-Dimensional Semiconducting CrI 3 by Symmetry Breaking"
-author: "Xufeng Li; Aolei Wang; Hailong Chen; Weijian Tao; Zeng Chen; Chi Zhang; Yujie Li; Yiran Zhang; Honghui Shang; Yu-xiang Weng; Jin Zhao; Haiming Zhu"
+author: "Xufeng Li; Aolei Wang; Hailong Chen; Weijian Tao; Zeng Chen; Chi Zhang; Yujie Li; Yiran Zhang; Honghui Shang; Yuxiang Weng; Jin Zhao; Haiming Zhu"
 collection: publications
 category: 2022
 permalink: /publication/2022-01-01-Ultrafast-Spontaneous-Localization-of-a

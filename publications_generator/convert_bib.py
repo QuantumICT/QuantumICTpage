@@ -6,7 +6,15 @@ from bibtexparser.customization import convert_to_unicode
 from bibtexparser.bibdatabase import BibDatabase
 
 def clean_author(author):
-    return '; '.join(part.strip() for part in author.split(' and '))
+    authors = []
+    for part in author.split(' and '):
+        names = part.split(', ')
+        if len(names) == 2:
+            formatted_name = f"{names[1].strip()} {names[0].strip()}"
+        else:
+            formatted_name = names[0]
+        authors.append(formatted_name)
+    return '; '.join(authors)
 
 def sanitize_filename(filename):
     return re.sub(r'[<>:"/\\|?*]', '', filename)
@@ -26,12 +34,16 @@ def create_markdown_file(entry):
     safe_title = sanitize_filename(title.replace(' ', '-'))
     issue_date = f"{year}-01-01"  # Simplified issue date, adjust as needed
 
+    permalink = f"{issue_date}-{safe_title}"
+    if len(permalink) > 50:
+        permalink = permalink[:50]  # Truncate to 30 characters
+
     markdown_content = f"""---
 title: "{title}"
 author: "{author}"
 collection: publications
 category: {year}
-permalink: /publication/{issue_date}-{safe_title}
+permalink: /publication/{permalink}
 date: {issue_date}
 paperurl: 'https://doi.org/{doi}'
 {f"journal: '{journal}'" if journal else ''}
@@ -40,7 +52,7 @@ paperurl: 'https://doi.org/{doi}'
 {entry_text.strip()}
 ```
 """
-    filename = f"{issue_date}-{safe_title}.md"
+    filename = f"result/{permalink}.md"
     with open(filename, 'w', encoding='utf-8') as file:
         file.write(markdown_content)
 

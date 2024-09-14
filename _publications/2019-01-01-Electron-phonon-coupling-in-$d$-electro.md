@@ -1,5 +1,5 @@
 ---
-title: "Electron-phonon coupling in \$d\$-electron solids: A temperature-dependent study of rutile \$\backslashmathrm\Ti\\\backslashmathrm\O\\_\2\\$ by first-principles theory and two-photon photoemission"
+title: "Electron-phonon coupling in 𝑑-electron solids: A temperature-dependent study of rutile Ti⁢O2 by first-principles theory and two-photon photoemission"
 author: "Honghui Shang; Adam Argondizzo; Shijing Tan; Jin Zhao; Patrick Rinke; Christian Carbogno; Matthias Scheffler; Hrvoje Petek"
 collection: publications
 category: 2019

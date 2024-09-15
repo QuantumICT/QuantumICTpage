@@ -2,7 +2,7 @@
 title: "MPS-VQE: A variational quantum computational chemistry simulator with matrix product states"
 author: "Zhiqian Xu; Yi Fan; Chu Guo; Honghui Shang"
 collection: publications
-category: 2024
+category: 2023
 permalink: /publication/2024-01-01-MPS-VQE-A-variational-quantum-computati
 date: 2024-01-01
 paperurl: 'https://doi.org/https://doi.org/10.1016/j.cpc.2023.108897'

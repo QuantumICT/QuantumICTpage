@@ -1,7 +1,9 @@
 ---
-permalink: /guide
+permalink: /guide/
 title: "Guide"
 author_profile: false
+redirect_from:
+  - /guide
 ---
 
 <script type="text/javascript">
